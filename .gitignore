@@ -1,0 +1,7 @@
+# raylib-tetris
+*.exe
+*.dsym
+*.sh
+*.a
+main
+include/
